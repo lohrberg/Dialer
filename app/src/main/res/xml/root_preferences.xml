@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <SwitchPreference
+        app:key="@string/store_numbers_key"
+        android:defaultValue="true"
+        app:title="@string/store_numbers_title"
+        app:summary="@string/store_numbers_text"/>
+
+    <Preference
+        app:key="@string/delete_numbers_key"
+        app:title="@string/delete_numbers_title"
+        app:summary="@string/delete_numbers_text" />
+
+</PreferenceScreen>

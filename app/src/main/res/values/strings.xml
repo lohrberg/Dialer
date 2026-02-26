@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Dialer</string>
+    <string name="start_info">What would you like to do?</string>
+    <string name="btn_dail">Dial</string>
+    <string name="btn_call_list">Call list</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_map">Map</string>
+    <string name="btn_about">About</string>
+    <string name="title_call_list">No telephone numbers are stored.</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="delete_history_text">Delete history</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <string name="title_about">About</string>
+    <string name="info_about">This app is supposed to mimic the keypad of a phone. The app will consist of activities to: \n \n
+    • Enter numbers to dial \n • See previously dialed numbers \n
+        • Change the keypad settings \n
+        • Show on a map where previous calls are dialed from</string>
+
+    <string name="delete_numbers_title">Delete stored numbers</string>
+    <string name="delete_numbers_text">Delete stored telephone numbers from storage</string>
+    <string name="delete_numbers_key">delete_numbers</string>
+    <string name="store_numbers_key">store_numbers_key</string>
+    <string name="store_numbers_title">Store numbers</string>
+    <string name="store_numbers_text">Dialed telephone numbers are stored so they can be viewed later</string>
+    <string name="settings_title">Settings</string>
+</resources>
