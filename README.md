@@ -84,7 +84,7 @@ Detta ger bättre struktur, testbarhet och underhållbarhet.
 
 3.  Öppna i Android Studio.
 
-4.  Lägg till Google Maps API-nyckel i local.properties.
+4.  Lägg till Google Maps API-nyckel i manifest
 
 5.  Synka Gradle och kör på emulator eller fysisk enhet.
 
